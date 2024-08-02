@@ -1,0 +1,28 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-frontcarros-dev-1a353-authRole",
+      "UnauthRoleArn": "arn:aws:iam::381492242461:role/amplify-frontcarros-dev-1a353-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::381492242461:role/amplify-frontcarros-dev-1a353-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-frontcarros-dev-1a353-deployment",
+      "UnauthRoleName": "amplify-frontcarros-dev-1a353-unauthRole",
+      "StackName": "amplify-frontcarros-dev-1a353",
+      "StackId": "arn:aws:cloudformation:us-east-2:381492242461:stack/amplify-frontcarros-dev-1a353/d781c7e0-50ee-11ef-ad61-020841d24e4d",
+      "AmplifyAppId": "d1lq9v20lukkab"
+    }
+  },
+  "web": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-frontcarros-web-192d1-authRole",
+      "UnauthRoleArn": "arn:aws:iam::381492242461:role/amplify-frontcarros-web-192d1-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::381492242461:role/amplify-frontcarros-web-192d1-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-frontcarros-web-192d1-deployment",
+      "UnauthRoleName": "amplify-frontcarros-web-192d1-unauthRole",
+      "StackName": "amplify-frontcarros-web-192d1",
+      "StackId": "arn:aws:cloudformation:us-east-2:381492242461:stack/amplify-frontcarros-web-192d1/af31ff70-50ef-11ef-9da6-06273ec979cf",
+      "AmplifyAppId": "d1lq9v20lukkab"
+    }
+  }
+}
